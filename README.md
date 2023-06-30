@@ -1,4 +1,4 @@
-# Programowanie reaktywne - kolokwium 2 - Grupa 3
+Do tego kodu potrzebny jest projekt react oraz server
 
 
 ## 1. Instalacja i uruchomienie projektu
